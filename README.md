@@ -1,1 +1,1 @@
-# gameRepository
+# game-repo

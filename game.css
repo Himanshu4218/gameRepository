@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: blue;
+   
+}
+
+#gameContainer {
+    margin: 10px 0 0 365px ;
+    border: 1px solid #d3d3d3;
+    background-color: #fdfb80;
+}
+
+#image{
+    height: 20px;
+    width: 20px;
+    display: none;
+}
+
+#tileImage{
+    display: none;
+}
+
+.game{
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar{
+    background: rgb(206, 250, 181);
+    width: 365px;
+}
+
+.sidebar h1{
+    color: blue;
+    font-size: 40px;
+}
